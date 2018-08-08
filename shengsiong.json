@@ -7,22 +7,52 @@
                "opening_hours":" 7.00am - 11.00pm"
         },
         {
-               "name":"woodlands",
-               "address":"yes",
-               "phone_number":"12345678",
-               "opening_hours":"1pm-10pm"
+               "name":"Fajar Supermarket",
+               "address":"Blk 446 Fajar Rd #01-01 Singapore 670446",
+               "phone_number":"6769 3828",
+               "opening_hours":"24 Hours"
         },
         {
-               "name":"woodlands",
-               "address":"yes",
-               "phone_number":"12345678",
-               "opening_hours":"1pm-10pm"
+               "name":"Segar Supermarket",
+               "address":"Blk 547 Segar Rd #01-06 Singapore 670547",
+               "phone_number":"6250 0664",
+               "opening_hours":"24 Hours"
         },
         {
-               "name":"woodlands",
-               "address":"yes",
-               "phone_number":"12345678",
-               "opening_hours":"1pm-10pm"
+               "name":"Teck Whye Supermarket",
+               "address":"Blk 18 Teck Whye Lane #01-95 Singapore 680018",
+               "phone_number":" 6875 0103",
+               "opening_hours":" 24 Hours"
+        },
+      {
+               "name":"Woodlands 4 Supermarket",
+               "address":"Blk 4 Woodlands Street 12#02-61 Singapore 738623",
+               "phone_number":" 6362 0352",
+               "opening_hours":"24 Hours"
+        },
+      {
+               "name":"Woodlands 200 Supermarket",
+               "address":"200 Woodlands Industrial Park E7 Singapore 757177",
+               "phone_number":"6365 6162",
+               "opening_hours":"7.00am - 12.00mn"
+        },
+      {
+               "name":"Woodlands 301 Supermarket",
+               "address":"Blk 301 Woodlands St 31 #01-217 Singapore 730301",
+               "phone_number":"6362 3061",
+               "opening_hours":"24 Hours"
+        },
+      {
+               "name":"Woodlands 785 Supermarket",
+               "address":"Blk 785E WOODLANDS RISE #01-01 Singapore 73578",
+               "phone_number":" 6895 1888",
+               "opening_hours":" 7.00am - 11.00pm"
+        },
+      {
+               "name":"Yishun 675 Supermarket",
+               "address":"Blk 675 Yishun Avenue 4 #01-10 Singapore 760675",
+               "phone_number":"6257 0949",
+               "opening_hours":"24 Hours"
         }
    ]
 }	  
